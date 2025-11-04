@@ -97,3 +97,8 @@ python jogo.py
 Desenvolvido como atividade prática da disciplina **Computação Gráfica** do curso de Ciência da Computação da Universidade Federal do Ceará - Campus Russas.
 O objetivo foi aplicar transformações geométricas, renderização 2D e manipulação de eventos via GLFW.
 
+## 📄 Licença
+
+Distribuído sob a licença MIT — veja o arquivo [LICENSE](LICENSE) para mais detalhes.
+
+
